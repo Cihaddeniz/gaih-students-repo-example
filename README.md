@@ -4,6 +4,7 @@
 **Course Date:** 22.03.2021  
 **Name:** Cihad  
 **Surname:** DENİZ 
+
 **Email:** cihad.dnz@gmail.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
